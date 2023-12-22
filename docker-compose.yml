@@ -2,5 +2,6 @@ version: "3.5"
 services:
   note-app:
      image: 128844/note-app:one
+     container_name: note-app
      ports:
          - "8001:8000"
