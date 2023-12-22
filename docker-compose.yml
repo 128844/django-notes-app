@@ -1,5 +1,5 @@
 version : "3.3"
 services :
   web :
-     image : 128844/note-app:one
+     image : trainwithshubham/my-note-app:latest
          - "8000:8000"
