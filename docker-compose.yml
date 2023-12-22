@@ -3,4 +3,4 @@ services:
   note-app:
      image: 128844/note-app:one
      ports:
-         - "8000:8000"
+         - "8001:8000"
